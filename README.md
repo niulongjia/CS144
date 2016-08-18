@@ -1,7 +1,4 @@
-# CS144
-UCLA CS144 (Winter 2016)
-Project Overview
-
+# UCLA CS144 (Winter 2016) Project Overview
 The project is to build a Web service and a Web site that allow users to search and navigate eBay bidding data. Your system manages all of its data at the back-end in the MySQL database and supports browsing and searching interfaces over the Internet. These functionalities will be provided by integrating MySQL, Apache Tomcat, Lucene and Axis2 packages. A considerable amount of real data from the eBay Web site in XML format will be given to populate the system.
 
 # Part 1: System setup and warm-up (10%)
